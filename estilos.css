@@ -1,7 +1,9 @@
+@import url("https://fonts.google.com/specimen/DM+Serif+Text");
 body {
  background-color: #fdf5bb; 
  font-family: fantasy; 
  padding-bottom: 60px;
+ text-align: center;
 } 
 
 img{
@@ -16,6 +18,7 @@ footer {
      bottom: 0; 
      width: 100%;
     font-size: 40px;
+    color: #042768;
 }
 h1,h2 {
     color: #2a5997;
@@ -78,6 +81,7 @@ nav ul a {
     text-decoration: none;
     font-weight: 600;
     right: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
  nav ul{
     list-style: none;
