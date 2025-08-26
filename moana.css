@@ -1,50 +1,57 @@
 body {
- background-color: #f0dcb8; 
- font-family: fantasy; 
- padding-bottom: 60px;
- text-align:center;
-} 
+    background-color: #f0dcb8;
+    font-family: fantasy;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
 footer {
-     background-color: rgb(223, 156, 85);
-     text-align: center;
-     padding: 10px;
-     position: fixed; 
-     bottom: 0; 
-     width: 100%;
+    background-color: rgb(223, 156, 85);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     font-size: 20px;
     color: #eb631f;
-     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 header {
-     background-color: #f17030;
-     color: #f3c36b;
-     text-align: center;
-     padding: 10px;
+    background-color: #f17030;
+    color: #f3c36b;
+    text-align: center;
+    padding: 10px;
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 header img {
- width: 200px;
- height: auto;
+    width: 200px;
+    height: auto;
 }
-h2{
+
+h2 {
     font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #a35026;
 }
+
 p {
     font-size: 20px;
-    font-family:'Times New Roman', Times, serif ;
+    font-family: 'Times New Roman', Times, serif;
     color: #7f340e;
 }
+
 li {
-  list-style-type: none;
-  color: #7f340e;
-   font-size: 20px;
-    font-family:'Times New Roman', Times, serif ;
+    list-style-type: none;
+    color: #7f340e;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
 }
-img{
+
+img {
     width: 400px;
     height: 400px;
-     mix-blend-mode: multiply;
+    mix-blend-mode: multiply;
 }
