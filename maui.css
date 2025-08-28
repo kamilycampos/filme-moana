@@ -1,12 +1,12 @@
 body {
-    background-color: #cef6dd;
+    background-color: #a5e6a0;
     font-family: fantasy;
     padding-bottom: 60px;
     text-align: center;
 }
 
 footer {
-    background-color: rgb(32, 222, 64);
+    background-color: rgb(23, 97, 61);
     text-align: center;
     padding: 10px;
     position: fixed;
@@ -18,7 +18,7 @@ footer {
 }
 
 header {
-    background-color: #01e82b;
+    background-color: #0f8224;
     color: #253a1d;
     text-align: center;
     padding: 10px;
